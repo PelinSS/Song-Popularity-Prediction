@@ -1,6 +1,6 @@
 # Song-Popularity-Prediction
 
-- Spotify rating for a song is one of the most important indicators for music industry. It doesn’t only offer high quality music, but also helps attract more audiences to musicians. it is very convenient to make rating and popularity prediction. Using spotify dataset, I will try to analyze the song dataset and fit models to see whether a song's popularity predictable ?
+- Spotify rating for a song is one of the most important indicators for music industry. It doesn’t only offer high quality music, but also helps attract more audiences to musicians.So it is very convenient to make rating and popularity prediction. Using spotify dataset, I will try to analyze the song dataset and fit models to see whether a song's popularity predictable ?
 
 # Feature Explanations
 - Dataset contains 19.000 songs and has 15 features like duration ms, key, audio mode, acousticness, danceability, energy and so on .
